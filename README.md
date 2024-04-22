@@ -1,5 +1,5 @@
 <div align="center">
 
-# EQUALIZATION
+# EQUALIZATION MANIFEST
 
 </div>
